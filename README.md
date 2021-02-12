@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills
-In my career, i have developed with... <br>
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src= "https://img.shields.io/badge/-C-grey"/> <img src="https://img.shields.io/badge/-Java-orange" /> <img src = "https://img.shields.io/badge/-Basic-lightblue"/>
 <img src="https://img.shields.io/badge/-PHP-ff69b4" /> <img src="https://img.shields.io/badge/-Python-f0de6c" /> <img src= "https://img.shields.io/badge/-ASM-grey"/> <img src="https://img.shields.io/badge/-JS-yellow" /> <img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-CSS-green" />
 
