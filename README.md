@@ -1,7 +1,4 @@
-### ¡Hola! 👋
-
-## Estadísticas
-Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos, sino su porcentaje de aparición en mis repositorios.
+### ¡Hi There! 👋
 
 <a href="https://github.com/FernandoOlivaM/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoOlivaM&layout=compact&theme=gotham" />
