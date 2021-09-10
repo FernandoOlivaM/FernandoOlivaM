@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-PHP-ff69b4" /> <img src="https://img.shields.io/badge/-Python-f0de6c" /> <img src= "https://img.shields.io/badge/-ASM-grey"/> <img src="https://img.shields.io/badge/-JS-yellow" /> <img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-CSS-green" />
 
 ## Statistics
-<a href="https://github.com/feroliv4z/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feroliv4z&layout=compact&theme=great-gatsby" />
+<a href="https://github.com/FernandoOlivaM/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoOlivaM&layout=compact&theme=great-gatsby" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><a href="https://github.com/feroliv4z/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feroliv4z&show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas de Github de feroliv4z" />
+<br><a href="https://github.com/FernandoOlivaM/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=
+                           &show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas de Github de FernandoOlivaM" />
 </a> &nbsp;
 
 <p align="center"> 
