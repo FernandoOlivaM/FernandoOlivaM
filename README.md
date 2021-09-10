@@ -1,34 +1,12 @@
-### Hi there 👋
+### ¡Hola! 👋
 
-<!--
-**feroliv4z/feroliv4z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estadísticas
+Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos, sino su porcentaje de aparición en mis repositorios.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Skills
-<img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src= "https://img.shields.io/badge/-C-grey"/> <img src="https://img.shields.io/badge/-Java-orange" /> <img src = "https://img.shields.io/badge/-Basic-lightblue"/>
-<img src="https://img.shields.io/badge/-PHP-ff69b4" /> <img src="https://img.shields.io/badge/-Python-f0de6c" /> <img src= "https://img.shields.io/badge/-ASM-grey"/> <img src="https://img.shields.io/badge/-JS-yellow" /> <img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-CSS-green" />
-
-## Statistics
 <a href="https://github.com/FernandoOlivaM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoOlivaM&layout=compact&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoOlivaM&layout=compact&theme=gotham" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://github.com/FernandoOlivaM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=
-                           &show_icons=true&include_all_commits=true&theme=great-gatsby&line_height=27" alt="Estadísticas de Github de FernandoOlivaM" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoOlivaM&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="Estadísticas de Github de Andres" />
 </a> &nbsp;
-
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
