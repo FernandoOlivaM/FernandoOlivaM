@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fernando Oliva</h1>
 <h3 align="center">A passionate full stack developer from Guatemala</h3>
+<!-- 
+                 _      _      _ 
+               _(.)<  _(.)>  _(.)<
+               \__)   \__)   \__) 
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoolivam&label=Profile%20views&color=0e75b6&style=flat" alt="fernandoolivam" /> </p>
 
